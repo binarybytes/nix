@@ -1,6 +1,6 @@
 #recent apt upgrade with timestamp
-less /var/log/apt/term.log
+`less /var/log/apt/term.log`
 # 2021-09-14
 #also found in:
-less /var/log/apt/history.log
-less /var/log/dpkg.log
+`less /var/log/apt/history.log`
+`less /var/log/dpkg.log`
